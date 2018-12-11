@@ -1,0 +1,10 @@
+C:\Users\ricde\source\repos\A2Programming\A2Programming\bin\Debug\A2Programming.exe.config
+C:\Users\ricde\source\repos\A2Programming\A2Programming\bin\Debug\A2Programming.exe
+C:\Users\ricde\source\repos\A2Programming\A2Programming\bin\Debug\A2Programming.pdb
+C:\Users\ricde\source\repos\A2Programming\A2Programming\obj\Debug\A2Programming.csprojAssemblyReference.cache
+C:\Users\ricde\source\repos\A2Programming\A2Programming\obj\Debug\A2Programming.Form1.resources
+C:\Users\ricde\source\repos\A2Programming\A2Programming\obj\Debug\A2Programming.Properties.Resources.resources
+C:\Users\ricde\source\repos\A2Programming\A2Programming\obj\Debug\A2Programming.csproj.GenerateResource.cache
+C:\Users\ricde\source\repos\A2Programming\A2Programming\obj\Debug\A2Programming.csproj.CoreCompileInputs.cache
+C:\Users\ricde\source\repos\A2Programming\A2Programming\obj\Debug\A2Programming.exe
+C:\Users\ricde\source\repos\A2Programming\A2Programming\obj\Debug\A2Programming.pdb
